@@ -1,4 +1,4 @@
-eGame Cash Wallet Donwload
+eGame Cash Wallet Download
 ====================
 
 ### Release 1.0.2
@@ -9,6 +9,7 @@ eGame Cash Wallet Donwload
 
 * [Windows Wallet GUI 1.0.1](http://www.egamecash.org/download/egamecash_windows_wallet-gui_v1.0.1.zip)
 * [Linux Wallet CLI 1.0.1](http://www.egamecash.org/download/egamecash_linux_daemon-cli_v1.0.1.zip)
+* [MAC Wallet CLI 1.0.1](http://www.egamecash.org/download/egamecash_mac_wallet-cli_v1.0.1.zip)
 
 
 ### Release 1.0.0
